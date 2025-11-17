@@ -12,7 +12,7 @@ function Hero() {
         <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} transition={{ duration: 0.7 }} viewport={{ once: true }}>
           <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-3 py-1 text-xs text-blue-200/80 mb-6">
             <span className="inline-block h-2 w-2 rounded-full bg-blue-400 animate-pulse" />
-            Available for freelance & internships
+            Open to work
           </div>
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight text-white">
             Paris Quashie
